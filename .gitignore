@@ -1,8 +1,18 @@
-# directories 
+# Directories
 leaf-seg/
 segment-anything-2/
 
-# Ignore specific SAM2 model checkpoint
+# Model checkpoints
 sam2_hiera_tiny.pt
 
+# System files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
