@@ -8,16 +8,18 @@ Follow these steps to clone, navigate, and install this repository in editable m
 
 ### 1. Clone the Repository
 To clone this repository, run the following command:
+```bash
+git clone https://github.com/facebookresearch/segment-anything-2.git
 
+```
 ### 2. Change Directory
 Navigate into the cloned repository:
-
+```bash
+cd segment-anything-2
+```
 ### 3. Install Dependencies
 Install the repository in editable mode using `pip`:
 
-
 ```bash
-git clone https://github.com/facebookresearch/segment-anything-2.git
-cd segment-anything-2
 pip install -e .
 ```
