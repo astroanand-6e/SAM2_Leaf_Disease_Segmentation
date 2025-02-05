@@ -1,4 +1,4 @@
-# Segment Anything 2
+# Instructions to install Segment Anything 2
 
 This repository contains the code and resources for **Segment Anything 2** by Facebook Research.
 
@@ -23,3 +23,4 @@ Install the repository in editable mode using `pip`:
 ```bash
 pip install -e .
 ```
+
