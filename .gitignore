@@ -4,3 +4,5 @@ segment-anything-2/
 
 # Ignore specific SAM2 model checkpoint
 sam2_hiera_tiny.pt
+
+.DS_Store
