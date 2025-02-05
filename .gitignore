@@ -4,6 +4,7 @@ segment-anything-2/
 
 # Model checkpoints
 sam2_hiera_tiny.pt
+
 #PAT
 PAT.txt
 # System files
