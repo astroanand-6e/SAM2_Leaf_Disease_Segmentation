@@ -1,4 +1,4 @@
-# SAM2 for Leaf Disease Segmentation
+# Finetuning SAM2 for Leaf Disease Segmentation
 
 ## Leaf Disease Segmentation Dataset
 
