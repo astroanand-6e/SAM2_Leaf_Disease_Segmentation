@@ -1,5 +1,11 @@
 # Finetuning SAM2 for Leaf Disease Segmentation
 
+### Results :
+
+![leaf_Dis_det](https://github.com/user-attachments/assets/27f32b37-af85-4122-9c16-8ca40b764f87)
+
+![leaf_dis_det2](https://github.com/user-attachments/assets/5b1603f0-6e4b-43d9-bcad-52244dc6d91d)
+
 ## Leaf Disease Segmentation Dataset
 
 This dataset is designed for the task of segmenting diseased areas on leaf images. It comprises a collection of RGB leaf images and corresponding RGBA segmentation masks, along with a CSV file for easy data handling during model training.  This dataset is also known as the "Leaf Segmentation Dataset SAM2 format" on Kaggle.
